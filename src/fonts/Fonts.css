@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Guminert';
+    src: url('./Guminert.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'NeueMachina-InktrapLight';
+    src: url('./PPNeueMachina-InktrapLight.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'NeueMachina-InktrapRegular';
+    src: url('./PPNeueMachina-InktrapRegular.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'Main-Bold';
+    src: url('./PPNeueMachina-InktrapUltrabold.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'NeueMachina-PlainLight';
+    src: url('./PPNeueMachina-PlainLight.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'NeueMachina-PlainRegular';
+    src: url('./PPNeueMachina-PlainRegular.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'NeueMachina-PlainUltraBold';
+    src: url('./PPNeueMachina-PlainUltrabold.otf') format('opentype');
+  }
